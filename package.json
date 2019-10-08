@@ -1,0 +1,24 @@
+{
+  "name": "z-test",
+  "version": "1.0.0",
+  "description": "test run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-Aris/z-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K-Aris/z-test/issues"
+  },
+  "homepage": "https://github.com/K-Aris/z-test#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "eslint": "^6.5.1",
+    "webpack": "^4.41.0"
+  }
+}
